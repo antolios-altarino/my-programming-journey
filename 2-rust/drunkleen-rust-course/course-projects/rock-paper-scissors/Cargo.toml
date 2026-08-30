@@ -1,0 +1,8 @@
+[package]
+name = "rock-sessior-paper"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+random = "0.14.1"
+random-number = "0.1.10"
