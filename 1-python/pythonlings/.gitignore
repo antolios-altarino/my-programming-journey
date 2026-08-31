@@ -1,0 +1,4 @@
+.pythonlings/state.json
+.pythonlings_debug.log
+__pycache__/
+*.pyc
