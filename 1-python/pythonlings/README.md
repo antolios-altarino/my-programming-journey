@@ -6,7 +6,7 @@ Each exercise is completed by fixing the code and passing its checks.
 
 ## 🧩 Exercises
 
-**8 / 292 completed**
+**8 / 292 completed (3%)**
 
 ### 01. Variables
 
@@ -18,8 +18,8 @@ Each exercise is completed by fixing the code and passing its checks.
 * [x] variables6
 * [x] variables7
 * [x] variables8
-* [ ] variables9
-* [ ] variables10
+* [x] variables9
+* [x] variables10
 
 ### 02. Types
 

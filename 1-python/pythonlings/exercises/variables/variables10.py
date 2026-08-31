@@ -1,5 +1,4 @@
 # Exercise: Variables 10
-# I AM NOT DONE
 #
 # Combine everything: given width and height of a rectangle, compute:
 #   area      = width * height
@@ -9,6 +8,9 @@
 
 width = 3
 height = 4
-area = ???
-perimeter = ???
-diagonal = ???
+area = width * height
+print(area)
+perimeter = 2 * (width + height)
+print(perimeter)
+diagonal = (width**2 + height**2) ** 0.5
+print(diagonal)
