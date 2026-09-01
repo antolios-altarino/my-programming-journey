@@ -12,69 +12,56 @@ This folder contains my notes, exercises, experiments, and projects created whil
 ## 📊 Course Progress
 
 **Current Episode:** 8 / 48
-> Progress is based on the episodes I have completed or am currently studying.
 
-### Status Legend
-
-* 🔴 **Not Started**
-* 🟡 **Learning**
-* 🟢 **Completed**
-
----
-
-## 📚 Episode Tracker
-
-| Episode | Status         |
-| ------- | -------------- |
-| 00      | 🟢 Completed   |
-| 01      | 🟢 Completed   |
-| 02      | 🟢 Completed   |
-| 03      | 🟢 Completed   |
-| 04      | 🟢 Completed   |
-| 05      | 🟢 Completed   |
-| 06      | 🟢 Completed   |
-| 07      | 🟢 Completed   |
-| 08      | 🟡 Learning    |
-| 09      | 🔴 Not Started |
-| 10      | 🔴 Not Started |
-| 11      | 🔴 Not Started |
-| 12      | 🔴 Not Started |
-| 13      | 🔴 Not Started |
-| 14      | 🔴 Not Started |
-| 15      | 🔴 Not Started |
-| 16      | 🔴 Not Started |
-| 17      | 🔴 Not Started |
-| 18      | 🔴 Not Started |
-| 19      | 🔴 Not Started |
-| 20      | 🔴 Not Started |
-| 21      | 🔴 Not Started |
-| 22      | 🔴 Not Started |
-| 23      | 🔴 Not Started |
-| 24      | 🔴 Not Started |
-| 25      | 🔴 Not Started |
-| 26      | 🔴 Not Started |
-| 27      | 🔴 Not Started |
-| 28      | 🔴 Not Started |
-| 29      | 🔴 Not Started |
-| 30      | 🔴 Not Started |
-| 31      | 🔴 Not Started |
-| 32      | 🔴 Not Started |
-| 33      | 🔴 Not Started |
-| 34      | 🔴 Not Started |
-| 35      | 🔴 Not Started |
-| 36      | 🔴 Not Started |
-| 37      | 🔴 Not Started |
-| 38      | 🔴 Not Started |
-| 39      | 🔴 Not Started |
-| 40      | 🔴 Not Started |
-| 41      | 🔴 Not Started |
-| 42      | 🔴 Not Started |
-| 43      | 🔴 Not Started |
-| 44      | 🔴 Not Started |
-| 45      | 🔴 Not Started |
-| 46      | 🔴 Not Started |
-| 47      | 🔴 Not Started |
-| 48      | 🔴 Not Started |
+* [x] Episode 00
+* [x] Episode 01
+* [x] Episode 02
+* [x] Episode 03
+* [x] Episode 04
+* [x] Episode 05
+* [x] Episode 06
+* [x] Episode 07
+* [x] Episode 08
+* [ ] Episode 09 — 🟡 Learning
+* [ ] Episode 10
+* [ ] Episode 11
+* [ ] Episode 12
+* [ ] Episode 13
+* [ ] Episode 14
+* [ ] Episode 15
+* [ ] Episode 16
+* [ ] Episode 17
+* [ ] Episode 18
+* [ ] Episode 19
+* [ ] Episode 20
+* [ ] Episode 21
+* [ ] Episode 22
+* [ ] Episode 23
+* [ ] Episode 24
+* [ ] Episode 25
+* [ ] Episode 26
+* [ ] Episode 27
+* [ ] Episode 28
+* [ ] Episode 29
+* [ ] Episode 30
+* [ ] Episode 31
+* [ ] Episode 32
+* [ ] Episode 33
+* [ ] Episode 34
+* [ ] Episode 35
+* [ ] Episode 36
+* [ ] Episode 37
+* [ ] Episode 38
+* [ ] Episode 39
+* [ ] Episode 40
+* [ ] Episode 41
+* [ ] Episode 42
+* [ ] Episode 43
+* [ ] Episode 44
+* [ ] Episode 45
+* [ ] Episode 46
+* [ ] Episode 47
+* [ ] Episode 48
 
 ---
 
