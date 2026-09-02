@@ -20,12 +20,12 @@ Each exercise is completed by fixing the code and passing its checks.
 * [x] variables3
 * [x] variables4
 * [x] variables5
-* [ ] variables6
+* [x] variables6
 
 ### 02. Functions
 
-* [ ] functions1
-* [ ] functions2
+* [x] functions1
+* [x] functions2
 * [ ] functions3
 * [ ] functions4
 * [ ] functions5
