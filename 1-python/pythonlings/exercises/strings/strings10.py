@@ -1,5 +1,4 @@
 # Exercise: Strings 10
-# I AM NOT DONE
 #
 # Build a formatted report line from the given data. The expected result is:
 #   "Item: widget | Qty: 42 | Price: $3.99"
@@ -8,4 +7,4 @@
 item = "widget"
 qty = 42
 price = 3.99
-report = ???
+report = f"Item: {item} | Qty: {qty} | Price: ${price}"
