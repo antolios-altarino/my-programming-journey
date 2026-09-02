@@ -21,33 +21,20 @@ Each exercise is completed by fixing the code and passing its checks.
 * [x] variables9
 * [x] variables10
 
-### 02. Types
+### 02. Strings
 
-* [ ] types1
-* [ ] types2
-* [ ] types3
-* [ ] types4
-* [ ] types5
-* [ ] types6
-* [ ] types7
-* [ ] types8
-* [ ] types9
-* [ ] types10
+* [x] strings1
+* [x] strings2
+* [x] strings3
+* [x] strings4
+* [x] strings5
+* [x] strings6
+* [x] strings7
+* [x] strings8
+* [x] strings9
+* [x] strings10
 
-### 03. Strings
-
-* [ ] strings1
-* [ ] strings2
-* [ ] strings3
-* [ ] strings4
-* [ ] strings5
-* [ ] strings6
-* [ ] strings7
-* [ ] strings8
-* [ ] strings9
-* [ ] strings10
-
-### 04. Numbers
+### 03. conditions
 
 * [ ] numbers1
 * [ ] numbers2
