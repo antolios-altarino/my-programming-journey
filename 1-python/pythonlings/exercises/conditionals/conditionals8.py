@@ -1,5 +1,4 @@
 # Exercise: Conditionals 8
-# I AM NOT DONE
 #
 # Python has "truthiness": values can be used directly in conditions
 # without an explicit == check.
@@ -15,6 +14,7 @@
 # Do NOT use == in your condition — use `if value` directly.
 
 def describe(value):
-    if ???:
+    if value:
         return "has content"
-    ???
+    else:
+        return "empty"

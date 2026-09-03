@@ -1,5 +1,4 @@
 # Exercise: Conditionals 5
-# I AM NOT DONE
 #
 # Boolean operators combine conditions:
 #   `and` — True only when BOTH sides are True
@@ -11,7 +10,7 @@
 # when the person is a student OR a senior.
 
 def can_ride(height, has_ticket):
-    return height >= 120 ??? has_ticket
+    return height >= 120 and has_ticket
 
 def gets_discount(is_student, is_senior):
-    return is_student ??? is_senior
+    return is_student or is_senior

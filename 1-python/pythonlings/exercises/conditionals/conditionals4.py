@@ -1,5 +1,4 @@
 # Exercise: Conditionals 4
-# I AM NOT DONE
 #
 # Python comparison operators: <, <=, >, >=, ==, !=
 #   ==  equal to          !=  not equal to
@@ -12,9 +11,9 @@
 #   "greater" when a > b
 
 def compare(a, b):
-    if a ??? b:
+    if a < b:
         return "less"
-    elif a ??? b:
+    elif a == b:
         return "equal"
     else:
         return "greater"

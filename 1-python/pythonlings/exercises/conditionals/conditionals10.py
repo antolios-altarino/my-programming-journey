@@ -1,5 +1,4 @@
 # Exercise: Conditionals 10
-# I AM NOT DONE
 #
 # Putting it all together: classify a number using several conditions.
 #
@@ -13,6 +12,13 @@
 # Use an if / elif / elif / elif / else chain.
 
 def classify(n):
-    if ???:
+    if n > 100:
         return "large positive"
-    ???
+    elif n > 0:   
+        return "small positive"
+    elif n == 0:   
+        return "zero"
+    elif n >= -100:   
+        return "small negative"
+    else:   
+        return "large negative"

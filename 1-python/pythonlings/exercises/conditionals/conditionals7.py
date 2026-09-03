@@ -1,5 +1,4 @@
 # Exercise: Conditionals 7
-# I AM NOT DONE
 #
 # Nested `if` statements let you check a second condition only after
 # a first condition has already passed.
@@ -13,6 +12,7 @@ def ticket_price(age, is_member):
     if age < 5:
         return 0
     else:
-        if ???:
+        if age >= 5 and is_member:
             return 8
-        ???
+        elif age >= 5:
+            return 12

@@ -1,5 +1,4 @@
 # Exercise: Conditionals 6
-# I AM NOT DONE
 #
 # `not` flips a boolean: `not True` is False, `not False` is True.
 # It is useful when you want to act on the absence of something.
@@ -9,7 +8,7 @@
 # Hint: use `not` in both functions.
 
 def is_closed(is_open):
-    return ???
+    return not is_open
 
 def neither_zero(a, b):
-    return ???
+    return a != 0 and b != 0
