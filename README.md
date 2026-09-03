@@ -15,7 +15,7 @@ My current focus is:
 * Python
 * Rust
 * MQL5
-* Python ↔ Rust integration
+* Python ↔ Rust ↔ MQL5 integration
 * Algorithms and Data Structures
 * Trading Systems
 
@@ -29,7 +29,8 @@ My long-term goal is to become a strong programmer and build reliable, fast, and
 | `02-rust`             | Rust learning                                |
 | `03-python-rust`      | Python and Rust integration                  |
 | `04-mql5`             | MQL5 learning                                |
-| `05-trading-projects` | Algorithmic trading research and development |
+| `05-python-mt5`       | Python ↔ MetaTrader 5 integration            |
+| `06-trading-projects` | Algorithmic trading research and development |
 
 ## 📝 Note
 
