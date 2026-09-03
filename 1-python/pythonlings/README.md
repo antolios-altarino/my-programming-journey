@@ -36,16 +36,16 @@ Each exercise is completed by fixing the code and passing its checks.
 
 ### 03. Conditionals — 0/10 🔴 Start
 
-* [ ] conditionals1
-* [ ] conditionals2
-* [ ] conditionals3
-* [ ] conditionals4
-* [ ] conditionals5
-* [ ] conditionals6
-* [ ] conditionals7
-* [ ] conditionals8
-* [ ] conditionals9
-* [ ] conditionals10
+* [x] conditionals1
+* [x] conditionals2
+* [x] conditionals3
+* [x] conditionals4
+* [x] conditionals5
+* [x] conditionals6
+* [x] conditionals7
+* [x] conditionals8
+* [x] conditionals9
+* [x] conditionals10
 
 ### 04. Loops — 0/10 🔴 Start
 
