@@ -1,0 +1,1 @@
+D:\antolios-altarino\my-programming-journey\2-rust\drunkleen-rust-course\course-projects\3-loop-while-for\loop-while-for\target\debug\loop-while-for.exe: D:\antolios-altarino\my-programming-journey\2-rust\drunkleen-rust-course\course-projects\3-loop-while-for\loop-while-for\src\main.rs
