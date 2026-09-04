@@ -50,7 +50,7 @@ fn main() {
     println!("exit");
     
 }
- 
+
 fn lloop(name: &str) {
     let mut counter: i32 = 0;
     while counter < 100 {
