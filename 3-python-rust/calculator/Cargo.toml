@@ -1,0 +1,11 @@
+[package]
+name = "calc"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "calculator"
+crate-type = ["cdylib"]
+
+[dependencies]
+pyo3 = { version = "0.25", features = ["extension-module"] }
