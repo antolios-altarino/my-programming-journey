@@ -22,8 +22,8 @@ This folder contains my notes, exercises, experiments, and projects created whil
 * [x] Episode 06
 * [x] Episode 07
 * [x] Episode 08
-* [ ] Episode 09 — 🟡 Learning
-* [ ] Episode 10
+* [x] Episode 09
+* [ ] Episode 10  — 🟡 Learning
 * [ ] Episode 11
 * [ ] Episode 12
 * [ ] Episode 13
